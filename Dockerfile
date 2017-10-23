@@ -8,4 +8,4 @@ RUN apk update \
 
 EXPOSE 3128
 
-CMD squid -N -X
+CMD squid -N
